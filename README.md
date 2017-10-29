@@ -7,3 +7,9 @@
 
 Download the apk and type your name in the textfield before start updating the background location
 
+# Live Mapview 
+
+You can check your loction update in the following url
+
+[https://appsgit.com/mapsync](https://appsgit.com/mapsync)
+
