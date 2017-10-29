@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AppsGit-Delete after test</string>
+
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+    <string name="settings">Settings</string>
+    <string name="ok">OK</string>
+
+    <string name="request_updates">Start Background Update</string>
+    <string name="remove_updates">Stop Background update</string>
+    <string name="unknown_location">Unknown location</string>
+
+    <string name="text_location_updates">Update Location in Background and Foreground</string>
+    <string name="text_location_updates2">Visit https://appsgit.com/mapsync to see your location update. Move your device from the existing place to see more accurate result in the mapview in the web.</string>
+    <string name="text_location_updates3">You can close your app and check the location in the provided url in few minutes. </string>
+
+    <plurals name="num_locations_reported">
+        <item quantity="zero">No location reported</item>
+        <item quantity="one">One location reported</item>
+        <item quantity="other">%d locations reported</item>
+    </plurals>
+</resources>
